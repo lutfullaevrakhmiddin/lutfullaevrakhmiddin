@@ -21,7 +21,7 @@ Java Backend Developer · Educator in progress · Tashkent, Uzbekistan
 | Database | PostgreSQL |
 | Web Basics | HTML, CSS, JavaScript |
 | Tools | Git, GitHub |
-| Learning now | Jakarta EE · Spring Boot |
+| Knowladge | Jakarta EE · Spring Boot |
 
 ---
 
